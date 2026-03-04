@@ -72,7 +72,7 @@ Durante o mapeamento e automação das páginas, foram identificadas diversas op
 
 Para visualizar o detalhamento completo dos itens levantados nas páginas de Certificação e Site, acesse o documento abaixo:
 
-👉 [Acessar Relatório Completo de Testes](./docs/relatorio_de_testes.md)
+👉 [Acessar Relatório Completo de Testes](./docs/tests_analytics.md)
 
 ---
 ## Autor:
